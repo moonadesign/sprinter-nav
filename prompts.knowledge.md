@@ -16,4 +16,8 @@
 - Sprints must be continuous - no gaps between quarters or after off weeks
 - Keep commit messages concise to prevent GitHub truncation
 - Always include knowledge files in commits when they've been updated
+- Each sprint contains explicit days array of YYYY-MM-DD strings instead of calculating dates
+- When parsing YYYY-MM-DD strings with new Date(), add 'T00:00:00' to ensure consistent local timezone interpretation
+- When parsing YYYY-MM-DD strings with new Date(), add 'T00:00:00' to ensure consistent local timezone interpretation
+- When parsing YYYY-MM-DD strings with new Date(), add 'T00:00:00' to ensure consistent local timezone interpretation
 
