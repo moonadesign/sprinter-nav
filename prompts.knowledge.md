@@ -1,8 +1,11 @@
 # Sprint Date Rules
 
-- Sprint date ranges are inclusive of the end date
 - Federal holidays are excluded from sprint workdays
 - First sprint of the year starts on Jan 2 (after New Year's Day)
+- Federal holidays include both the holiday and any officially observed days
+- Holiday exclusions do not apply during off weeks since all days are non-working
+- Sprint date ranges are inclusive of the end date
+- Holiday rules do not apply during off weeks since those days are already non-working days
 - Sprint workday count should match the actual number of non-holiday weekdays
 - Last week of each quarter is an off week (Q1 Off Week, Q2 Off Week, etc.)
 - Include all sprints in planning, even end-of-year sprints
