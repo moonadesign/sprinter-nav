@@ -16,3 +16,17 @@ So what if instead of one monolith super script, we attempted this in multiple p
 2. Remove holidays and note the adjustment
 3. Append names and emojis
 4. Call each of these jobs in a single command
+
+## Usage
+
+Generate sprint data for current year:
+
+```bash
+node weeks.js
+```
+
+Generate sprint data for a specific year:
+
+```bash
+node weeks.js 25
+```
