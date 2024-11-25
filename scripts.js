@@ -18,22 +18,28 @@ async function loadSprints() {
         const div = document.createElement('div');
         div.className = 'sprint';
         
-        // Generate array of dates between start and end
+        // Generate array of weekdays between start and end
         const days = [];
         let currentDate = new Date(sprint.startDate);
         const endDate = new Date(sprint.endDate);
         while (currentDate <= endDate) {
-            days.push(new Date(currentDate));
+            // Only include weekdays (0 = Sunday, 6 = Saturday)
+            if (currentDate.getDay() !== 0 && currentDate.getDay() !== 6) {
+                days.push(new Date(currentDate));
+            }
             currentDate.setDate(currentDate.getDate() + 1);
         }
         
         div.innerHTML = `
+            <div class="sprint-info">
+                <div>Sprint ${i + 1}</div>
+                <div class="workdays">${sprint.workDays}d</div>
+            </div>
             <div class="days">
                 ${days.map(date => `
                     <div class="day">${date.getDate()}</div>
                 `).join('')}
             </div>
-            <div class="workdays">${sprint.workDays}d</div>
         `;
         container.appendChild(div);
     });
