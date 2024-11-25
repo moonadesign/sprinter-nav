@@ -4,9 +4,9 @@
   "description": "[ChatGPT o1-mini thread](https://chatgpt.com/share/6735879d-8e5c-8003-bdc3-3a07250d26a8)",
   "main": "days.js",
   "dependencies": {
+    "@18f/us-federal-holidays": "^4.0.0",
     "dayjs": "^1.11.13"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

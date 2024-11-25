@@ -22,11 +22,11 @@ So what if instead of one monolith super script, we attempted this in multiple p
 Generate sprint data for current year:
 
 ```bash
-node weeks.js
+node weeks
 ```
 
 Generate sprint data for a specific year:
 
 ```bash
-node weeks.js 25
+node weeks 25
 ```
