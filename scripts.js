@@ -2,12 +2,12 @@ async function loadSprints() {
     const response = await fetch('sprints.json');
     const sprints = await response.json();
     const container = document.getElementById('sprints');
-
+    
     let currentMonth = '';
     
     sprints.forEach((sprint, i) => {
-        const month = new Date(sprint.startDate).toLocaleString('default', { month: 'long' });
-        if (month !== currentMonth) {
+        const month = sprint.days?.length ? new Date(sprint.days[0]).toLocaleString('default', { month: 'long' }) : '';
+        if (month && month !== currentMonth) {
             currentMonth = month;
             const monthDiv = document.createElement('div');
             monthDiv.className = 'month';
@@ -18,28 +18,18 @@ async function loadSprints() {
         const div = document.createElement('div');
         div.className = 'sprint';
         
-        // Generate array of weekdays between start and end
-        const days = [];
-        let currentDate = new Date(sprint.startDate);
-        const endDate = new Date(sprint.endDate);
-        while (currentDate <= endDate) {
-            // Only include weekdays (0 = Sunday, 6 = Saturday)
-            if (currentDate.getDay() !== 0 && currentDate.getDay() !== 6) {
-                days.push(new Date(currentDate));
-            }
-            currentDate.setDate(currentDate.getDate() + 1);
-        }
-        
         div.innerHTML = `
             <div class="sprint-info">
                 <div>Sprint ${i + 1}</div>
                 <div>${sprint.emoji} ${sprint.nickname}</div>
-                <div class="workdays">${sprint.workDays}d</div>
+                <div class="workdays">${sprint.days?.length || 0}d</div>
             </div>
             <div class="days">
-                ${days.map(date => `
-                    <div class="day">${date.getDate()}</div>
-                `).join('')}
+                ${sprint.days?.map(date => {
+                    const day = new Date(date + 'T00:00:00');
+                    console.log('Date string:', date, 'Parsed date:', day, 'Day of month:', day.getDate());
+                    return `<div class="day">${day.getDate()}</div>`;
+                }).join('') || ''}
             </div>
         `;
         container.appendChild(div);
