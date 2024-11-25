@@ -1,0 +1,58 @@
+:root {
+    --font: -apple-system, BlinkMacSystemFont, "Helvetica Neue", helvetica, arial, sans-serif;
+    --black: #000;
+    --white: #fff;
+    --gray: #666;
+}
+
+body {
+    font-family: var(--font);
+    line-height: 1.5;
+    margin: 0;
+    padding: 5vw;
+    background: var(--white);
+    color: var(--black);
+}
+
+h1 {
+    font-size: clamp(4rem, 20vw, 12rem);
+    font-weight: 900;
+    margin: 0 0 2rem;
+    line-height: 1;
+}
+
+.month {
+    font-size: 2rem;
+    font-weight: 900;
+    margin: 4rem 0 2rem;
+}
+
+.sprint {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 2rem;
+    padding: 1rem 0;
+    border-top: 1px solid var(--black);
+}
+
+.sprint:last-child {
+    border-bottom: 1px solid var(--black);
+}
+
+.days {
+    display: grid;
+    grid-template-columns: repeat(14, 1fr);
+    gap: 0.5rem;
+}
+
+.day {
+    aspect-ratio: 1;
+    border: 1px solid var(--black);
+    padding: 0.5rem;
+    font-family: monospace;
+    font-size: 0.875rem;
+}
+
+.workdays {
+    font-weight: 700;
+}
