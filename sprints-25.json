@@ -15,7 +15,9 @@
       1,
       2
     ],
-    "note": "Federal holiday: New Year's Day"
+    "note": "Federal holiday: New Year's Day",
+    "name": "New Year Sprint",
+    "emoji": "🎯"
   },
   {
     "days": [
@@ -33,7 +35,9 @@
       3,
       4
     ],
-    "note": "Federal holiday: Birthday of Martin Luther King, Jr."
+    "note": "Federal holiday: Birthday of Martin Luther King, Jr.",
+    "name": "MLK Dream Sprint",
+    "emoji": "✊"
   },
   {
     "days": [
@@ -51,7 +55,9 @@
     "weeks": [
       5,
       6
-    ]
+    ],
+    "name": "Groundhog Glory",
+    "emoji": "🦫"
   },
   {
     "days": [
@@ -69,7 +75,9 @@
       7,
       8
     ],
-    "note": "Federal holiday: Washington's Birthday"
+    "note": "Federal holiday: Washington's Birthday",
+    "name": "Heart Presidents",
+    "emoji": "🎩"
   },
   {
     "days": [
@@ -87,7 +95,9 @@
     "weeks": [
       9,
       10
-    ]
+    ],
+    "name": "Leap Year Leap",
+    "emoji": "🦘"
   },
   {
     "days": [
@@ -105,7 +115,9 @@
     "weeks": [
       11,
       12
-    ]
+    ],
+    "name": "Shamrock Sprint",
+    "emoji": "☘️"
   },
   {
     "days": [
@@ -123,7 +135,9 @@
     "weeks": [
       14,
       15
-    ]
+    ],
+    "name": "Easter Hop",
+    "emoji": "🐰"
   },
   {
     "days": [
@@ -141,7 +155,9 @@
     "weeks": [
       16,
       17
-    ]
+    ],
+    "name": "Tax Trek",
+    "emoji": "📊"
   },
   {
     "days": [
@@ -159,7 +175,9 @@
     "weeks": [
       18,
       19
-    ]
+    ],
+    "name": "Mayo Fiesta",
+    "emoji": "🪅"
   },
   {
     "days": [
@@ -177,7 +195,9 @@
     "weeks": [
       20,
       21
-    ]
+    ],
+    "name": "Thirty Eight",
+    "emoji": "🎂"
   },
   {
     "days": [
@@ -195,7 +215,9 @@
       22,
       23
     ],
-    "note": "Federal holiday: Memorial Day"
+    "note": "Federal holiday: Memorial Day",
+    "name": "Memorial March",
+    "emoji": "🎖️"
   },
   {
     "days": [
@@ -213,7 +235,9 @@
       24,
       25
     ],
-    "note": "Federal holiday: Juneteenth National Independence Day"
+    "note": "Federal holiday: Juneteenth National Independence Day",
+    "name": "Juneteenth Journey",
+    "emoji": "⭐"
   },
   {
     "days": [
@@ -231,7 +255,9 @@
       27,
       28
     ],
-    "note": "Federal holiday: Independence Day"
+    "note": "Federal holiday: Independence Day",
+    "name": "Independence Dash",
+    "emoji": "🎆"
   },
   {
     "days": [
@@ -249,7 +275,9 @@
     "weeks": [
       29,
       30
-    ]
+    ],
+    "name": "Midsummer Surge",
+    "emoji": "🌊"
   },
   {
     "days": [
@@ -267,7 +295,9 @@
     "weeks": [
       31,
       32
-    ]
+    ],
+    "name": "August Ascent",
+    "emoji": "🚀"
   },
   {
     "days": [
@@ -285,7 +315,9 @@
     "weeks": [
       33,
       34
-    ]
+    ],
+    "name": "Back to School",
+    "emoji": "📚"
   },
   {
     "days": [
@@ -303,7 +335,9 @@
       35,
       36
     ],
-    "note": "Federal holiday: Labor Day"
+    "note": "Federal holiday: Labor Day",
+    "name": "Labor Day Launch",
+    "emoji": "🛠️"
   },
   {
     "days": [
@@ -321,7 +355,9 @@
     "weeks": [
       37,
       38
-    ]
+    ],
+    "name": "Fall Forward",
+    "emoji": "🍂"
   },
   {
     "days": [
@@ -339,7 +375,9 @@
     "weeks": [
       40,
       41
-    ]
+    ],
+    "name": "October Opening",
+    "emoji": "🎃"
   },
   {
     "days": [
@@ -357,7 +395,9 @@
       42,
       43
     ],
-    "note": "Federal holiday: Columbus Day"
+    "note": "Federal holiday: Columbus Day",
+    "name": "Harvest Hustle",
+    "emoji": "🌾"
   },
   {
     "days": [
@@ -375,7 +415,9 @@
     "weeks": [
       44,
       45
-    ]
+    ],
+    "name": "Halloween Hurrah",
+    "emoji": "👻"
   },
   {
     "days": [
@@ -393,7 +435,9 @@
       46,
       47
     ],
-    "note": "Federal holiday: Veterans Day"
+    "note": "Federal holiday: Veterans Day",
+    "name": "Veterans Victory",
+    "emoji": "🎖️"
   },
   {
     "days": [
@@ -411,7 +455,9 @@
       48,
       49
     ],
-    "note": "Federal holiday: Thanksgiving Day"
+    "note": "Federal holiday: Thanksgiving Day",
+    "name": "Turkey Trot",
+    "emoji": "🦃"
   },
   {
     "days": [
@@ -429,6 +475,8 @@
     "weeks": [
       50,
       51
-    ]
+    ],
+    "name": "December Dash",
+    "emoji": "🎄"
   }
 ]

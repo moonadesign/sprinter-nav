@@ -1,5 +1,7 @@
 [
   {
+    "name": "New Year Sprint",
+    "emoji": "🎯",
     "days": [
       "2024-01-02",
       "2024-01-03",
@@ -18,6 +20,8 @@
     "note": "Federal holiday: New Year's Day"
   },
   {
+    "name": "MLK Dream Sprint",
+    "emoji": "✊",
     "days": [
       "2024-01-16",
       "2024-01-17",
@@ -36,6 +40,8 @@
     "note": "Federal holiday: Birthday of Martin Luther King, Jr."
   },
   {
+    "name": "Groundhog Glory",
+    "emoji": "🦫",
     "days": [
       "2024-01-29",
       "2024-01-30",
@@ -54,6 +60,8 @@
     ]
   },
   {
+    "name": "Heart Presidents",
+    "emoji": "🎩",
     "days": [
       "2024-02-12",
       "2024-02-13",
@@ -72,6 +80,8 @@
     "note": "Federal holiday: Washington's Birthday"
   },
   {
+    "name": "Leap Year Leap",
+    "emoji": "🦘",
     "days": [
       "2024-02-26",
       "2024-02-27",
@@ -90,6 +100,8 @@
     ]
   },
   {
+    "name": "Shamrock Sprint",
+    "emoji": "☘️",
     "days": [
       "2024-03-11",
       "2024-03-12",
@@ -108,6 +120,8 @@
     ]
   },
   {
+    "name": "Easter Hop",
+    "emoji": "🐰",
     "days": [
       "2024-04-01",
       "2024-04-02",
@@ -126,6 +140,8 @@
     ]
   },
   {
+    "name": "Tax Trek",
+    "emoji": "📊",
     "days": [
       "2024-04-15",
       "2024-04-16",
@@ -144,6 +160,8 @@
     ]
   },
   {
+    "name": "Mayo Fiesta",
+    "emoji": "🪅",
     "days": [
       "2024-04-29",
       "2024-04-30",
@@ -162,6 +180,8 @@
     ]
   },
   {
+    "name": "Thirty Eight",
+    "emoji": "🎂",
     "days": [
       "2024-05-13",
       "2024-05-14",
@@ -180,6 +200,8 @@
     ]
   },
   {
+    "name": "Memorial March",
+    "emoji": "🎖️",
     "days": [
       "2024-05-28",
       "2024-05-29",
@@ -198,6 +220,8 @@
     "note": "Federal holiday: Memorial Day"
   },
   {
+    "name": "Juneteenth Journey",
+    "emoji": "⭐",
     "days": [
       "2024-06-10",
       "2024-06-11",
@@ -216,6 +240,8 @@
     "note": "Federal holiday: Juneteenth National Independence Day"
   },
   {
+    "name": "Independence Dash",
+    "emoji": "🎆",
     "days": [
       "2024-07-01",
       "2024-07-02",
@@ -234,6 +260,8 @@
     "note": "Federal holiday: Independence Day"
   },
   {
+    "name": "Midsummer Surge",
+    "emoji": "🌊",
     "days": [
       "2024-07-15",
       "2024-07-16",
@@ -252,6 +280,8 @@
     ]
   },
   {
+    "name": "August Ascent",
+    "emoji": "🚀",
     "days": [
       "2024-07-29",
       "2024-07-30",
@@ -270,6 +300,8 @@
     ]
   },
   {
+    "name": "Back to School",
+    "emoji": "📚",
     "days": [
       "2024-08-12",
       "2024-08-13",
@@ -288,6 +320,8 @@
     ]
   },
   {
+    "name": "Labor Day Launch",
+    "emoji": "🛠️",
     "days": [
       "2024-08-26",
       "2024-08-27",
@@ -306,6 +340,8 @@
     "note": "Federal holiday: Labor Day"
   },
   {
+    "name": "Fall Forward",
+    "emoji": "🍂",
     "days": [
       "2024-09-09",
       "2024-09-10",
@@ -324,6 +360,8 @@
     ]
   },
   {
+    "name": "October Opening",
+    "emoji": "🎃",
     "days": [
       "2024-09-30",
       "2024-10-01",
@@ -342,6 +380,8 @@
     ]
   },
   {
+    "name": "Harvest Hustle",
+    "emoji": "🌾",
     "days": [
       "2024-10-15",
       "2024-10-16",
@@ -360,6 +400,8 @@
     "note": "Federal holiday: Columbus Day"
   },
   {
+    "name": "Halloween Hurrah",
+    "emoji": "👻",
     "days": [
       "2024-10-28",
       "2024-10-29",
@@ -378,6 +420,8 @@
     ]
   },
   {
+    "name": "Veterans Victory",
+    "emoji": "🎖️",
     "days": [
       "2024-11-12",
       "2024-11-13",
@@ -396,6 +440,8 @@
     "note": "Federal holiday: Veterans Day"
   },
   {
+    "name": "Turkey Trot",
+    "emoji": "🦃",
     "days": [
       "2024-11-25",
       "2024-11-26",
@@ -414,6 +460,8 @@
     "note": "Federal holiday: Thanksgiving Day"
   },
   {
+    "name": "December Dash",
+    "emoji": "🎄",
     "days": [
       "2024-12-09",
       "2024-12-10",
