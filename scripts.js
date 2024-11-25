@@ -33,6 +33,7 @@ async function loadSprints() {
         div.innerHTML = `
             <div class="sprint-info">
                 <div>Sprint ${i + 1}</div>
+                <div>${sprint.emoji} ${sprint.nickname}</div>
                 <div class="workdays">${sprint.workDays}d</div>
             </div>
             <div class="days">
