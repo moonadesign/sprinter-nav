@@ -29,7 +29,7 @@ h1 {
 
 .sprint {
     display: grid;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: auto 1fr;
     gap: 2rem;
     padding: 1rem 0;
     border-top: 1px solid var(--black);
@@ -41,7 +41,7 @@ h1 {
 
 .days {
     display: grid;
-    grid-template-columns: repeat(14, 1fr);
+    grid-template-columns: repeat(10, 1fr);
     gap: 0.5rem;
 }
 
@@ -53,6 +53,13 @@ h1 {
     font-size: 0.875rem;
 }
 
-.workdays {
+.sprint-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
     font-weight: 700;
+}
+
+.workdays {
+    color: var(--gray);
 }
