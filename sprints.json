@@ -1,7 +1,5 @@
 [
   {
-    "startDate": "2024-01-02",
-    "endDate": "2024-01-12",
     "nickname": "New Year Sprint",
     "emoji": "🎯",
     "days": [
@@ -10,9 +8,6 @@
     ]
   },
   {
-    "startDate": "2024-01-16",
-    "endDate": "2024-01-26",
-
     "nickname": "MLK Dream Sprint",
     "emoji": "✊",
     "days": [
@@ -21,9 +16,6 @@
     ]
   },
   {
-    "startDate": "2024-01-29",
-    "endDate": "2024-02-09",
-
     "nickname": "Groundhog Glory",
     "emoji": "🦫",
     "days": [
@@ -32,156 +24,90 @@
     ]
   },
   {
-    "startDate": "2024-02-12",
-    "endDate": "2024-02-23",
-    "workDays": 9,
     "nickname": "Presidents' Push",
     "emoji": "🎩"
   },
   {
-    "startDate": "2024-02-26",
-    "endDate": "2024-03-08",
-    "workDays": 10,
     "nickname": "March Momentum",
     "emoji": "🌱"
   },
   {
-    "startDate": "2024-03-11",
-    "endDate": "2024-03-22",
-    "workDays": 10,
     "nickname": "Spring Stride",
     "emoji": "🌸"
   },
   {
-    "startDate": "2024-03-25",
-    "endDate": "2024-04-05",
-    "workDays": 10,
     "nickname": "April Advance",
     "emoji": "🌧️"
   },
   {
-    "startDate": "2024-04-08",
-    "endDate": "2024-04-19",
-    "workDays": 10,
     "nickname": "Tax Time Trek",
     "emoji": "📊"
   },
   {
-    "startDate": "2024-04-22",
-    "endDate": "2024-05-03",
-    "workDays": 10,
     "nickname": "May Makers",
     "emoji": "🎨"
   },
   {
-    "startDate": "2024-05-06",
-    "endDate": "2024-05-17",
-    "workDays": 10,
     "nickname": "Spring Summit",
     "emoji": "🏔️"
   },
   {
-    "startDate": "2024-05-20",
-    "endDate": "2024-05-31",
-    "workDays": 9,
     "nickname": "Memorial March",
     "emoji": "🎖️"
   },
   {
-    "startDate": "2024-06-03",
-    "endDate": "2024-06-14",
-    "workDays": 10,
     "nickname": "June Jump",
     "emoji": "🦘"
   },
   {
-    "startDate": "2024-06-17",
-    "endDate": "2024-06-28",
-    "workDays": 10,
     "nickname": "Juneteenth Journey",
     "emoji": "⭐"
   },
   {
-    "startDate": "2024-07-01",
-    "endDate": "2024-07-12",
-    "workDays": 9,
     "nickname": "Independence Sprint",
     "emoji": "🎆"
   },
   {
-    "startDate": "2024-07-15",
-    "endDate": "2024-07-26",
-    "workDays": 10,
     "nickname": "Summer Surge",
     "emoji": "🌊"
   },
   {
-    "startDate": "2024-07-29",
-    "endDate": "2024-08-09",
-    "workDays": 10,
     "nickname": "August Ascent",
     "emoji": "🚀"
   },
   {
-    "startDate": "2024-08-12",
-    "endDate": "2024-08-23",
-    "workDays": 10,
     "nickname": "Back to School",
     "emoji": "📚"
   },
   {
-    "startDate": "2024-08-26",
-    "endDate": "2024-09-06",
-    "workDays": 9,
     "nickname": "Labor Day Launch",
     "emoji": "🛠️"
   },
   {
-    "startDate": "2024-09-09",
-    "endDate": "2024-09-20",
-    "workDays": 10,
     "nickname": "Fall Forward",
     "emoji": "🍂"
   },
   {
-    "startDate": "2024-09-23",
-    "endDate": "2024-10-04",
-    "workDays": 10,
     "nickname": "October Opening",
     "emoji": "🎃"
   },
   {
-    "startDate": "2024-10-07",
-    "endDate": "2024-10-18",
-    "workDays": 10,
     "nickname": "Harvest Hustle",
     "emoji": "🌾"
   },
   {
-    "startDate": "2024-10-21",
-    "endDate": "2024-11-01",
-    "workDays": 10,
     "nickname": "Halloween Hurrah",
     "emoji": "👻"
   },
   {
-    "startDate": "2024-11-04",
-    "endDate": "2024-11-15",
-    "workDays": 9,
     "nickname": "Veterans Victory",
     "emoji": "🎖️"
   },
   {
-    "startDate": "2024-11-18",
-    "endDate": "2024-11-29",
-    "workDays": 8,
     "nickname": "Turkey Trot",
     "emoji": "🦃"
   },
   {
-    "startDate": "2024-12-02",
-    "endDate": "2024-12-13",
-    "workDays": 10,
     "nickname": "December Dash",
     "emoji": "🎄"
   }
