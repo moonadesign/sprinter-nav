@@ -9,4 +9,8 @@
 - Off weeks should be included in sprint numbering/tracking
 - Off weeks should list their dates in the days array even though they are non-work days
 - Sprint nicknames should reflect holidays and events that occur during the sprint
+- Theme sprint names and emojis around holidays or events that occur during the sprint
+- Sprints must be continuous - no gaps between quarters or after off weeks
+- Keep commit messages concise to prevent GitHub truncation
+- Always include knowledge files in commits when they've been updated
 
